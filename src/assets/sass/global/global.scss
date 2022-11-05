@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    max-width: 1179px;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+.logo {
+    max-width: 134px;
+    height: 11px;
+}
+
+.title {
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 64px;
+    letter-spacing: 0.05em;
+    color: $color-black;
+}
